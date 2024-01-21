@@ -12,3 +12,5 @@
 - `words.csv` 詞彙
 - `no-words.csv` 弗適合作爲詞典詞彙，但是適合加入輸入法。一方面是組合用法如「我个」，多音字組詞如「乾（giē）坤」。
 - `maps.csv` 吳越地名
+- `phrases.csv` 熟語
+- `words-legacy.csv` 原輸入法个詞彙庫
