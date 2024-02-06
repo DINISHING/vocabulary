@@ -32,7 +32,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Run deployment script
-        run: python3 scripts/csv2jsonsimp.py
+        run: |
+          mkdir build
+          python3 scripts/csv2jsonsimp.py
       - name: Setup Pages
         uses: actions/configure-pages@v4
       - name: Upload artifact
