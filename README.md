@@ -14,3 +14,6 @@
 - `maps.csv` 吳越地名
 - `phrases.csv` 熟語
 - `words-legacy.csv` 原輸入法个詞彙庫
+
+# 在線json引用
+<https://dinishing.github.io/vocabulary/char_phon_simp.json>
