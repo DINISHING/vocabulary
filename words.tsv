@@ -1,5 +1,5 @@
 字	吳拼	釋義	英語	華語
-#人稱
+#人稱				
 我伲	ngou2 ni1	第一人稱複數	we	我們
 我拉	ngou2 la1	第一人稱複數正式	we	我們
 尔拉	ni2 la1	第二人稱複數正式	you	你們
@@ -23,33 +23,62 @@
 弟兄道裏				
 姊妹兩家頭				
 姊妹道裏				
-#功能詞
+#功能詞				
 在許	lai3 hei2		at	在
 扗許	leh hei2		at	在
+扗居	leh kei1		at	在
 在扗	lai3 leh		at	在
 冊那	tsak na1		fuck	幹
 全部	zae1 bu2		all	
+嘸沒			not any	
+#連接詞				
 因爲	in1 yu3		because	
-爲之	yu3 cy1		because	
+爲着	yu3 tzek		because, for	
+因得			because	
 所以	su2 yi2		therefore	
 箇咾	geh lau2		therefore	
-如何	na1 ha1		how	
-如何儿	na1 hang2		how	
-如然	na1 nen1		how	
-寔介	zhih ka3		so	
-寔介儿	zhih kang2		so	
-介儿	kang2		so	
-寔居	zhih kei1		thus	
-難末	nae1 meh		thus	
-幾許	ki2 ho3		how many	
-幾鈿	ki2 diae1		how much	
-爲啥	yu3 sa1		why	
-若使			if	
-若然			if	
-倘使			if	
+箇末	geh meh		so	
+寔居	zhih kei1		thus, so	
+乃末	nai2 meh		thus	
+弗過	feh kou3		but	
+但弗過	dae3 pih kou3		but	
+个說話			if	
+个閑話			if	
+个閒話			if	
 倘然			if	
-嘸沒			not any	
-#指示詞
+假使			if	
+倘使			if	
+要是			if	
+作興			if	
+#疑問詞			
+啥人	sa1 nin1		who	誰
+何人	gha1 nin1		who	誰
+何儂	gha1 nung1		who	誰
+啥物事	sa1 meh zy3		what	什麼
+何物	gha1 m1		what	什麼
+啥個	sa1 keh		what	什麼
+啥咾	sa1 lau2		what	什麼
+啥體	sa1 thi2		what matter	何事
+啥事體	sa1 zy3 thi2		what matter	何事
+啥事幹	sa1 zy3 koe2		what matter	何事
+啥場許	sa1 jiang2 ho2		where	哪裏
+啥地方	sa1 di3 fong1		where	哪裏
+啥戶蕩	sa1 wu2 dong2		where	哪裏
+何裏頭	gha1 li2 deu1		in where	在哪
+幾時	ki2 zhy1		when	何時
+啥辰光	sa1 zhin1 kuong1		when	何時
+何辰光	gha1 zhin1 kuong1		when	何時
+何裏	gha1 li2		which	哪個
+爲啥	yu3 sa1		why	爲何
+爲啥咾	yu3 sa1 lau3		why	爲何
+爲啥體	yu3 sa1 thi2		why	爲何
+作啥	tzou3 sa1		what for	幹什麼
+如何	na1 ha1		how	怎麼
+如何儿	na1 hang2		how	怎麼
+如然	na1 nen1		how	怎麼
+幾許	ki2 ho3		how many	多少
+幾鈿	ki2 diae1		how much	多少錢
+#指示詞				
 大家			together	
 大家儂			together	
 大家人			together	
@@ -58,64 +87,52 @@
 別人			other	
 別个			other	
 人家			other	
+居物	kei1 m1		this thing	
+箇物	geh m1		this thing	
+於物	ei1 m1		that thing	
+許物	hei2 m1		that thing	
 居個	kei1 keh		this	
-該個	kei1 keh		this	
 箇個	geh keh		this	
 寔個	dih keh		this	
-巜個	kuei1 keh		that	
+於個	ei1 keh		that	
 許個	hei2 keh		that	
-何個	gha1 keh		which	
 何裏個	gha1 li2 keh		which	
 居隻	kei1 ciak		this	
-該隻	kei1 ciak		this	
 箇隻	geh ciak		this	
 寔隻	dih ciak		this	
-巜隻	kuei1 ciak		that	
+於隻	ei1 ciak		that	
 許隻	hei2 ciak		that	
-何隻	gha1 ciak		which	
 何裏隻	gha1 li2 ciak		which	
 居𡍲	kei1 tah		here	
-該𡍲	kei1 tah		here	
 箇𡍲	geh tah		here	
-巜𡍲	kuei1 tah		there	
+於𡍲	ei1 tah		there	
 許𡍲	hei2 tah		there	
 何𡍲	gha1 tah		where	
 何裏𡍲	gha1 li2 tah		where	
 居処	kei1 tah		here	
-該処	kei1 tah		here	
 箇処	geh tah		here	
-巜処	kuei1 tah		there	
+於処	ei1 tah		there	
 許処	hei2 tah		there	
 何処	gha1 tah		where	
 何裏処	gha1 li2 tah		where	
 居面	kei1 mie3		here	
-該面	kei1 mie3		here	
-箇面	geh1 mie3		here	
-巜面	kuei1 mie3		there	
+箇面	geh mie3		here	
+許面	hei2 mie3		here	
+於面	ei1 mie3		there	
 箇許	geh hei2		here	
-巜許	kuei1 hei2		here	
 箇盪	geh dong2		here	
-巜盪	kuei1 dong2		there	
-啥場許	sa1 jiang2 ho2		where	
-啥地方	sa1 di3 fong1		where	
-啥戶蕩	sa1 wu2 dong2		where	
-幾時			when	
-啥辰光	sa1 zhin1 kuong1		when	
-何裏	gha1 li2		which	
-啥個	sa1 keh		what	
-作啥	tzou3 sa1		what for	
-啥體	sa1 thi2		what is the matter	
-啥事體	sa1 zy3 thi2		what is the matter	
-啥事幹	sa1 zy3 koe2		what is the matter	
-啥佬			what	
-箇然	geh nen1		such	
-啥人			who	
-羅个			who	
+於盪	ei1 dong2		there	
+箇埭	geh da3		here	
+於埭	ei1 da3		there	
 攏總			all	
 攏共			all	
-#小稱單音
+寔介	zhih ka3		so, such	
+寔介儿	zhih kang2		so, such	
+介儿	kang2		so, such	
+箇然	geh nen1		such	
+#小稱單音				
 筷儿	khuae2			
-#天文
+#天文				
 太陽				
 日頭				
 旺太陽				
@@ -140,9 +157,10 @@
 黃昏星				
 搬場星				
 星搬場				
-#氣象
+#氣象				
 大風				
 颱風				
+風吹				
 風潮				
 順風				
 頂頭風				
@@ -235,5 +253,5 @@
 天乾				
 天變				
 變天				
-#地方
+#地方				
 
