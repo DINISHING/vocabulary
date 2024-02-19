@@ -10,7 +10,7 @@
 尔儂	ng2 nung2	第二人稱正式，又音	thou	您
 佢儂	gei1 nung1	第三人稱正式	he,she,they	他
 兩家頭	liang2 ko1 deu1	兩個人	both	倆
-道裏	dau2 li2	扗一種關系裏向个多個人	" together"	幾個
+道裏	dau2 li2	扗一種關系裏向个多個人	together	幾個
 我伲兩家頭				
 伲兩家頭				
 尔拉兩家頭				
@@ -33,15 +33,14 @@
 戳㑚娘	tsak na3 niang2		motherfucker	
 戳㑚娘隻屄	tsak na3 niang1 ciak pi1		motherfucker	
 娘隻屄	niang1 ciak pi1		fuck	
-娘戲屄	niang1 hi3 phih		fuck	
+娘戲䏘	niang1 hi3 phih		fuck	
 #功能詞				
 在許	lai3 hei2		at	在
-扗許	leh hei2		at	在
-扗居	leh kei1		at	在
-在扗	lai3 leh		at	在
-冊那	tsak na1		fuck	幹
+扗許	lek hei2		at	在
+扗居	lek kei1		at	在
+在扗	lai3 lek		at	在
 全部	zae1 bu2		all	
-嘸物		可能是【嘸沒】个本字	not any	
+嘸物	m1 mek	可能是【嘸沒】个本字	not any	
 嘸沒	m1 mek		not any	
 嘸沒	m1 pek		not any	
 嘸沒	m1 bek		not any	
@@ -273,9 +272,6 @@
 天乾				
 天變				
 變天				
-<<<<<<< HEAD				
-#地方
-=======				
 #地方				
 #植物				
 松樹				
@@ -283,16 +279,20 @@
 柏樹				
 桑樹				
 桑葚				
-楊柳樹		楊柳科（Salicaceae）个樹	Salicaceae	
+楊柳		楊柳科（Salicaceae）个樹，一般指柳樹	Salicaceae	
+楊柳樹		【楊柳】		
 楊樹			Populus	
 柳樹			Salix	
-梧桐樹		【梧桐】	Firmiana simplex	
-梧桐			Firmiana simplex	
+梧桐樹			Firmiana simplex	
+梧桐		【梧桐樹】		
 樹梗			trunk	樹幹
 樹梢				
 樹葉子				樹葉
 樹丫子				樹枝
 竹頭			bamboo	竹子
+竹筍		【筍】		
+毛筍				
+水筍				
 冬筍				
 春筍				
 筍殼				
@@ -301,14 +301,14 @@
 桂花			Osmanthus fragrans	
 菊花			Chrysanthemum × morifolium	
 梅花			Prunus mume	
-月季花			Rosa chinensis	
-月月紅		【月季花】	Rosa chinensis	
+月季花		【月月紅】		
+月月紅			Rosa chinensis	
 薔薇花			Rosa multiflora	
-鳳仙花			Impatiens balsamina	
-節甲花		【鳳仙花】	Impatiens balsamina	
+鳳仙花		【節甲花】		
+節甲花			Impatiens balsamina	
 荷花			lotus flower	
 荷葉			lotus leaf	
-白蘭花		【白玉蘭】	Magnolia × alba	
+白蘭花		【白玉蘭】		
 白玉蘭			Magnolia × alba	
 茉莉花			Jasminum sambac, jasmine	
 玳玳花			Citrus × aurantium Amara	
@@ -328,26 +328,32 @@
 柴草		【稻柴】		
 稻秿		稻堆		
 稻穧		稻柴垛		
-稗草子				稗子
-癟穀		【秕穀】		
+稗草子		Echinochloa crus-galli，像水稻个雜草		稗子
 秕穀		空个咾弗滿个稻		
+癟穀		【秕穀】		
+稴穀	ghae1 kuk	【秕穀】		
 糙米		朆軋過个稻米		
 白米		軋過个稻米		
 粳米		黏性適中个稻米，就是一般性燒飯米		
 大米		【粳米】		
 秈米		黏性小一眼个稻米		
+喫米		粳米咾秈米		
 糯米		黏性頂大个米		
 米粉		稻米做个粉		
 糯米粉		擔糯米搭水磨成工漿，咾晾乾出个粉		
 小麥				
 大麥				
-麥穡頭		麥穗		
+麥䅴		麥穗		
 元麥				
 麥柴				麥秸
 麩皮				麥麩
+麥麩皮		【麩皮】		
 麪粉		麥粉		
 麥粉				
-御麥				玉米
+粟米				小米
+粟麥				
+珍珠米		【粟麥】		
+御麥		【粟麥】		玉米
 油菜				
 菜籽		油菜个果實，打油个		油菜籽
 棉花				
@@ -356,42 +362,63 @@
 六陳		隔年播个大麥、小麥、圓麥、蠶豆、豌豆、菜籽		
 #豆				
 黃豆				
-毛豆				
+白豆		【黃豆】		
+毛豆		嫩黃豆		
 綠豆				
 赤豆				紅豆
 蠶豆				
-寒豆				豌豆
-豇豆				
+淮豆		【蠶豆】		
+寒豆		學名 Pisum sativum，是豆科豌豆屬一年生或二年生攀緣草本植物。	pea	豌豆
+豇豆			Vigna unguiculata	
 長豇豆		【豇豆】		
 扁豆				
 #蔬菜				
-菠菜				
-				
-白菜		植物名。十字花科蕓薹屬，二年生草本。莖扁薄而白，葉闊大，呈淡綠色，是一種可食用个蔬菜。	Brassica rapa pekinensis	大白菜
+菠菜		植物，學名Spinacia oleracea，莧科菠菜屬的一年或二年生草本植物。性喜冷涼氣候，耐寒性強，根搭葉子好喫。	spinach	
+菠薐菜		【菠菜】		
+白菜		植物，學名Brassica rapa pekinensis，十字花科蕓薹屬，二年生草本。莖扁薄而白，葉闊大，呈淡綠色，是一種可食用个蔬菜。	napa cabbage,hakusai, Chinese cabbage	大白菜
 黃芽菜		【白菜】		
-膠菜		【白菜】		
 菜結		抽薹白菜		
-青菜		植物名。十字花科蕓薹屬，一年生草本。葉橢圓型，呈湯匙狀，肥厚多肉。依梗色分青梗及白梗兩種，依梗長分高腳及矮腳兩種。	pok choi, Brassica rapa subsp. chinensis	上海青，小白菜
-上海青		【青菜】	pok choi, Brassica rapa subsp. chinensis	上海青，小白菜
-蘇州青		【青菜】	pok choi, Brassica rapa subsp. chinensis	上海青，小白菜
-青江菜		【青菜】	pok choi, Brassica rapa subsp. chinensis	上海青，小白菜
-青梗菜		【青菜】	pok choi, Brassica rapa subsp. chinensis	上海青，小白菜
-菜薹			choy sum, Brassica rapa subsp. chinensis var. parachinensis	菜心
-細青菜				
-矮腳青菜				
-雞毛菜		青菜个幼苗		
-捲心菜			cabbage	
-包菜		"【捲心菜】 "	cabbage	
-芹菜		旱芹搭水芹菜		
-旱芹			Apium graveolens	
-西洋芹			celery, Apium graveolens var. dulce	西芹
-藥芹			Apium graveolens var. secalinum	唐芹
-水芹菜			Oenanthe javanica	水芹
+青菜		植物，學名Brassica rapa chinensis，十字花科蕓薹屬，一年生草本。葉橢圓型，呈湯匙狀，肥厚多肉。依梗色分青梗及白梗兩種，依梗長分高腳及矮腳兩種。	bok choy, pak choi	上海青，小白菜
+上海青		【青菜】		
+蘇州青		【青菜】		
+青江菜		【青菜】		
+青梗菜		【青菜】		
+矮腳青菜		一種梗短个青菜		
+細青菜		小咾嫩个青菜		
+雞毛菜		青菜个幼苗。擺湯裏个。		
+菜薹		植物，學名Brassica rapa var. parachinensis，一種蔬菜，莖綠个，有細个菜葉，深个綠顏色，有黃个小花，搭油菜關系近。喫法是清炒炒咾搭魚一道汆湯。	choy sum	菜心
+盤菜		植物，學名Brassica rapa subsp. Rapa，十字花科蕓薹屬，為二年生草本植物。塊根肉質，呈球形或扁圓形。	turnip	蕪青
+紫蘿蔔		【盤菜】		
+青蘿蔔		【盤菜】		
+芥菜		植物，學名Brassica juncea	leaf mustard	芥菜
+雪裡蕻		植物，學名Brassica juncea var. crispifolia。用來醃鹹菜个。	snow mustard	皺葉芥菜
+芥藍		植物，學名Brassica oleracea var. alboglabra，十字花科蕓薹屬，二年生草本。莖粗，直立，葉叢生於莖頂，葉柄長，葉形上尖下圓，稍帶白色，秋天變為紫色，弗結球。	Brassica oleracea var. Alboglabra	
+金絲芥菜		【芥藍】		
+捲心菜		植物，學名Brassica oleracea var. capitata，十字花科蕓薹屬，二年生草本。葉子寬咾厚，抱成功球。	cabbage	結球甘藍，捲心菜，高麗菜
+包菜		【捲心菜】		
+球菜		【捲心菜】		
+湯菜		植物，學名Brassica oleracea var. gemmifera，十字花科蕓薹屬，交關細个一種捲心菜，直徑一般1.5-4.0釐米。有眼苦味道个，高溫烹飪好擔苦味道消脫。扗西洋菜裏向做配菜个。	Brussels sprout	抱子甘藍，布魯塞爾芽菜
+花菜		植物，學名Brassica oleracea var. Botrytis，十字花科蕓薹屬，頭部為白色或綠色花序。	cauliflower	花椰菜
+西蘭花		植物，學名Brassica oleracea var. Italica，十字花科蕓薹屬。是一種蔬菜，搭花菜像，綠顏色个。	broccoli	青花菜，西蘭花
+青花菜		【西藍花】		
+甜菜		植物，學名Beta vulgaris，莧科甜菜屬，一年生或二年生草本植物。；【三月青】	beet	甜菜
+三月青		植物，學名Beta vulgaris subsp. cicla，莧科甜菜屬，甜菜个一隻品種，一年生或二年生草本葉菜。根小葉大，有眼苦味道，喫法是炒个，譬方「三月青炒千張」	Spinach beet	莙薘菜，葉用甜菜
+紅菜頭		學名 Beta vulgaris subsp. Vulgaris，莧科甜菜屬，甜菜个一隻品種，用个部分是佢个根，有紅顏色个。正宗个東歐羅宋湯是用紅菜頭當主料个，但弗過上海羅宋湯是用番茄醬調个顏色。	beetroot, garden beet	甜菜根
+芹菜		【旱芹】搭【水芹菜】		
+旱芹		植物，學名Apium graveolens，傘形科芹屬，有香氣，有眼苦味道。下底有【西洋芹】咾【藥芹】，一般特指藥芹。	celery	旱芹
+西洋芹		旱芹个一種，學名Apium graveolens var. dulce，菜梗粗，汁水多。西洋菜裏向做色拉咾燉湯用場个。	celery	西芹
+美芹		【西洋芹】		
+藥芹		旱芹个一種，學名Apium graveolens var. secalinum，菜梗細，菜葉多，味道濃。是吳越地區常種个品種。一般喫法是炒菜个，也好做餛飩䖆。	leaf celery, Chinese celery	唐芹
+白芹菜		【藥芹】		
+水芹菜		植物，學名Oenanthe javanica，傘形科水芹菜屬，多年生草本。高約二十至四十公分，羽狀複葉，互生。種扗居水田裏向个。	Oenanthe javanica	水芹，楚葵
 韭菜			Allium tuberosum	
-韭芽		【韭黃】	Allium tuberosum, grown in darkness	
+韭芽		【韭黃】		
 韭黃		在扗暗陰頭裏種个韭菜，黃顏色个	Allium tuberosum, grown in darkness	
 莧菜			Amaranthus tricolor	
+米莧		【莧菜】		
+莧頭		【莧菜】		
 紅莧菜			Amaranthus tricolor, dark one	
+紅米莧		【紅莧菜】		
 青莧菜			Amaranthus tricolor, green one	
 白莧菜			Amaranthus tricolor, light one	
 菜見		【菜薹】		
@@ -399,55 +426,81 @@
 蕹菜			Ipomoea aquatica	空心菜，通菜
 薺菜			apsella bursa-pastoris	
 蓬蒿菜			Glebionis coronaria	茼蒿
-香菜				
-番茄				
+蒿菜		【蓬蒿菜】		
+橄欖菜				
+香菜		植物，學名Coriandrum sativum，繖形科芫荽屬，一年生草本。有強烈氣味。莖有條紋、中空；葉為羽狀複葉、細裂有鋸齒。調味佐料。	coriander	芫荽
+番茄		植物，Solanum lycopersicum	tomato	番茄，西紅柿
+小番茄				
 菜頭		【蘿蔔】		
-蘿蔔	lau1 buk		daikon, Raphanus sativus var. longipinnatus	
+蘿蔔	lau1 buk	植物，學名Raphanus sativus var. longipinnatus，十字花科蘿蔔屬草本植物，根體積大，白个，味道清。可以燉湯。	daikon	
+菜頭		【蘿蔔】		
 太湖蘿蔔				
 蘿蔔乾	lau1 buk koe1			
-黃蘿蔔			carrot, Daucus carota	胡蘿蔔
-辣椒		【辣火】		
-辣火			chili pepper, Capsicum	辣椒
-燈籠辣火			bell pepper, Capsicum annuum	甜椒
-茄子		【落蘇】	eggplant, Solanum melongena	
-落蘇			eggplant, Solanum melongena	
-茭白			Zizania latifolia, the galled stems	
-萵苣		【萵苣筍】	lettuce, Lactuca sativa	
-萵苣筍			lettuce, Lactuca sativa	萵苣
-山芋			sweet potato, Ipomoea batatas	番薯，紅薯，甘薯，地瓜
-紫山芋				
+黃蘿蔔			carrot	胡蘿蔔
+紅蘿蔔		【黃蘿蔔】		
+紅菜		【黃蘿蔔】		
+辣茄			chili pepper	辣椒
+辣椒		【辣茄】		
+辣火		【辣茄】		
+燈籠辣茄			bell pepper	甜椒
+落蘇			eggplant	茄子
+茄子		【落蘇】		
+茭筍				
+茭白		【茭筍】		
+萵苣筍		Lactuca sativa var augustana	celtuce	萵筍
+萵苣		【萵苣筍】		
+筍菜		【萵苣筍】		
+香萵筍		【萵苣筍】		
+雪筍		圓葉萵苣筍		
+生菜		Lactuca sativa L. var. Longifolia	lettuce	
+蘆筍		Asparagus officinalis		
+山芋		Ipomoea batatas	sweet potato	紅薯，地瓜
+山薯		【山芋】		
 紫心山芋				
 黃心山芋				
-洋山芋			potato, Solanum tuberosum	馬鈴薯
-洋芋艿		【洋山芋】	potato, Solanum tuberosum	馬鈴薯
-芋艿			taro, Colocasia esculenta	芋頭
+洋山芋		Solanum tuberosum	potato	馬鈴薯
+洋芋艿		【洋山芋】		
+芋艿	yū nà	Colocasia esculenta	taro	芋頭
+白梗芋艿				
+黃梗芋艿				
 胡蔥			spring onion, Allium fistulosum	大葱
 洋蔥頭			onion, Allium cepa	洋蔥
+香蔥		【洋蔥頭】；【蔥】		
 大蒜			garlic, Allium sativum	蒜
 大蒜頭		【大蒜】个鱗莖		
 大蒜子		【大蒜頭】个瓣		
 蒜苗		【大蒜】个花莖		蒜薹
-芥菜			Brassica juncea	
 茨菰			Sagittaria sagittifolia	
 香蕈			shiitake, Lentinula edodes	香菇
 蘑菇			mushroom, Agaricus	
-生薑		【薑】个新鮮根莖	ginger root, Zingiber officinale	
-老薑		立秋後收个【薑】，乾咾顏色深，曬乾賣个	ginger root, Zingiber officinale	
-嫩薑		【薑】芽，顏色淺，有紅个尖尖	ginger root, Zingiber officinale	
+生薑		【薑】个新鮮根莖		
+老薑		立秋後收个【薑】，乾咾顏色深，曬乾賣个		
+嫩薑		【薑】芽，顏色淺，有紅个尖尖		
 胡椒			pepper, Piper nigrum	
+針金				
+金針		【針金】		
 馬蘭頭			Kalimeris indica	
 枸杞頭		【枸杞】个葉，好喫个		
+枸杞藤		【枸杞頭】		
+蒓菜				
+草頭				
+寒豆藤				
+客菜		外地菜		
+落腳菜		揀剩落來个菜		
+菜爿皮		菜个皮		
+#瓜果				
 冬瓜				
-南瓜		【飯瓜】	pumpkin, Cucurbita moschata	
-飯瓜	vae3 kuo1		pumpkin, Cucurbita moschata	
-番瓜	vae1 kuo1	【飯瓜】	pumpkin, Cucurbita moschata	
-金瓜		【飯瓜】	pumpkin, Cucurbita moschata	
+番瓜	vae1 kuo1		pumpkin	
+南瓜		【番瓜】		
+飯瓜	vae3 kuo1	【番瓜】		
+金瓜		【番瓜】		
 黃瓜				
 絲瓜				
 西瓜				
 扁蒲				瓠子
 葫蘆	wek lu1			
 桃子				
+杏梅				
 杏子				
 杏仁				
 蘋果				
@@ -463,11 +516,12 @@
 文旦				柚子
 沙田柚				
 桂圓				龍眼
+圓眼		【桂圓】		
 橄欖				
 栗子				
 葡萄	bek dau1			
-蒲桃	bu1 dau1	【核桃】		核桃
-核桃	wek1 dau1			核桃
+蒲桃	bu1 dau1			
+核桃	wek1 dau1	【蒲桃】		核桃
 沙胡桃				
 香榧子			Torreya	榧子
 白果				银杏果
@@ -475,6 +529,7 @@
 荸薺	bek zi2			
 甘蔗				
 長生果				花生
+落角生		【長生果】		
 果肉				
 花生米				
 長生果衣				花生紅衣
@@ -486,4 +541,8 @@
 水紅菱				
 老烏菱				
 沙瓜菱				
->>>>>>> 22cc901 (update phonology)				
+櫻珠				櫻桃
+青果				橄欖
+薄荷				
+木耳				
+金罌				石榴
